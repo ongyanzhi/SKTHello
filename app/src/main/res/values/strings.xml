@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SKTHello</string>
+    <string name="button_show">Show Message</string>
+    <string name="ClearScreen">ClearScreen</string>
+</resources>
